@@ -1,7 +1,7 @@
 # AutoAPI
 C# library to dynamically expose API end-points without creating them.
 
-###Note: Currently this returns only the results for GET HttpMethod and other operations will be updated soon.
+### Note: Currently this returns only the results for GET HttpMethod and other operations will be updated soon.
 
 ## Setup
 1. Create a ASP.Net Empty WebForms project, preferrably .Net Framework Ver 4.0 and above.
