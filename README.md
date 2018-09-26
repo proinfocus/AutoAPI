@@ -1,5 +1,5 @@
 # AutoAPI
-C# library to dynamically expose API end-points without creating them.
+C# library to dynamically expose API end-points without creating them. This works with MS SQL Server databases at the moment. 
 
 ### Note:
 Currently this returns only the results for GET HttpMethod and other operations will be updated soon.
