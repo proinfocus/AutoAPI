@@ -25,5 +25,5 @@ If you want to get all products, but just the Id, ProductName and Price, just re
 ## Restrict End-points
 Sometimes it is required that there are some important information in certain Tables, which you want the service to ignore querying for. It is possible, just by adding them to the <b>ProtectEndPoints</b> collection, as mentioned in the <b>Global.asax</b> file's <b>Application_Start</b> method.
 
-## End-points Alias
+## End-point Aliases
 If you want to avoid disclosing the Tablenames to your users or to make a better End-point name, you can do it by adding them to the <b>EndPointAliases</b> collection, as mentioned in the <b>Global.asax</b> file's <b>Application_Start</b> method.
