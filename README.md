@@ -1,8 +1,8 @@
 # AutoAPI
 C# library to dynamically expose API end-points without creating them. This works with <b>MS SQL Server</b> databases at the moment. 
 
-### Note:
-Currently this returns only the results for GET HttpMethod and other operations will be updated soon.
+### Updated:
+Now this works for all the verbs- GET, POST, PUT and DELETE as expected.
 
 ## Setup
 1. Create a ASP.Net Empty WebForms project, preferrably .Net Framework Ver 4.0 and above.
