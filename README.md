@@ -1,5 +1,8 @@
 # AutoAPI
-C# library to dynamically expose API end-points without creating them. This works with <b>MS SQL Server</b> databases at the moment. 
+C# library to dynamically expose API end-points without creating them. You don't need to create any models or write code. Just setup the environment as defined in the Web.config and Global.asax of your ASP.Net WebForm website and create an empty Default.aspx page. That's it.
+
+### Note:
+This works with <b>MS SQL Server</b> databases at the moment. 
 
 ### Updated:
 Now this works for all the verbs- GET, POST, PUT and DELETE as expected.
